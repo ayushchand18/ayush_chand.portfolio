@@ -305,7 +305,7 @@ open to opportunities`}</pre>
                 <h3>Bachelor of Technology</h3>
                 <p>Computer Science & Engineering</p>
                 <strong>IMS Engineering College, Ghaziabad</strong>
-                <small>GPA: 8.1</small>
+                <small>GPA: 8.17</small>
               </div>
               <div className="education-item">
                 <span>2020 — 2021</span>
